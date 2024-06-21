@@ -74,7 +74,7 @@ _(Recommended if you're using Windows without WSL)_
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Kanastra-Tech/kanastra-challenge-boilerplate.git
+   git clone https://github.com/gerlisson/kanastra-front.git
    ```
 2. Install the packages
    ```sh
